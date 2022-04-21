@@ -1,0 +1,141 @@
+{
+    "breakfast": {
+        "maca": {
+            "type": "Bebida",
+            "ingrediente": [
+                "2 litros de agua",
+                "8 clavos de olor",
+                "5 canelas",
+                "200 gr de maca",
+                "300 ml de leche",
+                "az&#250;car al gusto"
+            ],
+            "preparation": [
+                "Dejar hervir por 5 minutos los 2 litros de agua, 8 clavos de olor y las 5 canelas",
+                "Pasar por el colador y regresar el agua a la olla",
+                "Mezclar los 200gr de maca con medio litro agua hasta que no haya brumos y echarlo a la olla",
+                "Hervir por 25 minutos mientras lo vas moviendo",
+                "Agregar leche y luego az&#250;car al gusto"
+            ],
+            "duration": 45,
+            "portion": null,
+            "extra": null
+        },
+        "avena": {
+            "type": "Bebida",
+            "ingrediente": [
+                "1 taza de agua",
+                "½ taza de avena de hojuelas enteras",
+                "2 cucharaditas de canela en polvo"
+            ],
+            "preparation": [
+                "Preparaci&#243;n. Calienta el agua y, una vez que rompa el primer hervor, a&#241;ade la avena y canela al agua caliente. Espera 5 minutos y apaga el fuego."
+            ],
+            "duration": 5,
+            "portion": 1,
+            "extra": null
+        },
+        "emoliente": {
+            "type": "Bebida",
+            "ingrediente": [
+                "200g. cebada tostada",
+                "3 litros de agua",
+                "1 c&#225;scara de pi&#241;a cortada",
+                "50g. cola de caballo",
+                "4 ramas de canela",
+                "6 unidades de clavo de olor",
+                "1/2 unidad de c&#225;scara de naranja",
+                "2 membrillos",
+                "1 atado de hierbaluisa",
+                "1 atado de 1 atado de manzanilla",
+                "60g. de az&#250;ca",
+                "250g. de agua",
+                "10g. sal"
+            ],
+            "preparation": [
+                "En un recipiente hay que tamizar bien la cebada para quitar cualquier tipo de impureza.",
+                "En una olla agregar el agua, la cebada y cáscara de una piña.",
+                "A la preparación añadir la cantidad de cola de caballo y la canela.",
+                "Incluimos el clavo de olor y la cáscara de naranja.",
+                "Mezclamos y dejamos hervir por 20 minutos.",
+                "Cuando inicie el hervor, agregar las 2 unidades de membrillo.",
+                "En la olla colocamos la hierbaluisa y manzanilla. Dejamos hervir a fuego lento por 40 minutos."
+            ],
+            "duration": 120,
+            "portion": null,
+            "extra": [
+                "Linaza",
+                "1 litro de agua",
+                "8 cdas. de linaza",
+                "En una olla aparte colocar el agua y la linaza, dejar que hierva a fuego lento por 20 minutos.",
+                "Colar la linaza y reservar.",
+                "En un recipiente colocar 60g. de az&#250;car en 250g. de agua con sal. Integrar y reservar el jarabe."
+            ]
+        },
+        "soya": {
+            "type": "Bebida",
+            "ingrediente": [
+                "8 taza de agua",
+                "&#188; kilogramos de granos de soya org&#225;nica",
+                "Az&#250;car al gusto"
+            ],
+            "preparation": [
+                "Empezamos colocando los granos de&#160;soya&#160;a remojar por 8 &#243;&#160;12 horas. Recuerda que debemos cambiar el agua cada 4 horas si es posible.",
+                "Una vez que el tiempo haya pasado, con nuestras manos tratamos de resquebrajar la cascarilla de los granos.",
+                "Una vez restregados, colamos los granos ya remojados de todos los residuos que queden.",
+                "Para que nuestra&#160;leche de soya no tenga un sabor amargo debemos eliminar la enzima que crea este sabor por un par de minutos en el microondas.",
+                "Una vez que tengamos los granos, los echamos a la licuadora con algo de agua y empezamos a licuar hasta que tengamos una masa&#160;cremosa no tan l&#237;quida ni&#160;espesa. Debemos ir echando&#160;poca agua y colocando la medida que necesitemos.",
+                "Cuando tengamos el pur&#233; de&#160;soya&#160;lo podemos colocar en una olla junto a unas 8 tazas de agua.",
+                "Lo ponemos a hervir hasta que llegue a ebullici&#243;n. Desde ese momento cocinamos la&#160;soya&#160;a fuego lento por 25 minutos revolviendo cada cierto tiempo para que no se queme.",
+                "Ahora colamos la preparaci&#243;n para separar la leche de los residuos de&#160;soya&#160;y movemos hasta que solo tengamos l&#237;quido.",
+                "Cuando tengamos el pur&#233; lo podemos exprimir para conseguir mucho&#160;m&#225;s leche."
+            ],
+            "duration": null,
+            "portion": null,
+            "extra": null
+        },
+        "pan": {
+            "type": "Acompa&#241;amiento",
+            "relation": [
+                "pan con pollo",
+                "lomo saltado",
+                "pan con chicharron",
+                "hamburguesa casera",
+                "jamon del pais"
+            ]
+        },
+        "cafe": {
+            "type": "Bebida"
+        },
+        "pan con chicharron": {
+            "type": "Acompa&#241;amiento",
+            "ingrediente": [
+                "1 kg panceta de cerdo&#160;",
+                "5 pimienta en grano&#160;",
+                "5 dientes de ajo",
+                "1 hoja de laurel seco",
+                "3 camote",
+                "1 cebolla roja",
+                "1 cuharadita aj&#237; limo picado",
+                "4 tazas de aceite",
+                "sal al gusto",
+                "lim&#243;n al gusto"
+            ],
+            "preparation": [
+                "Preparar salmuera en un recipiente con 2 litros de agua y 2 cucharadas colmadas de sal, remover hasta disolver completamente, sumergir la panceta de cerdo (de preferencia hembra y sin huesos) refrigerar durante 4 horas como m&#237;nimo para que la sal penetre hasta el centro de la carne. La salmuera tambi&#233;n ayudar&#225; a quitar el exceso de sangre e impurezas que se encuentran dentro de la carne.",
+                "En una olla, colocar 2 litros de agua y 2 cucharadas de sal, llevar a fuego hasta romper hervor.",
+                "Colocar la panceta cortada en dos trozos, agregar 5 granos de pimienta, 5 dientes de ajo y una hoja de laurel. Puedes utilizar otras hierbas arom&#225;ticas como romero, hierbabuena, etc.",
+                "Hervir a fuego medio durante 1 hora, retirar las piezas de panceta, escurrir y secar para evitar salpicaduras de aceite.",
+                "Pelar, cortar y lavar los camotes para quitar el exceso de almid&#243;n.",
+                "En una cacerola o perol, agregar abundante aceite y llevarlo a temperatura media. Agregar las rodajas de camote y cocinar a fuego medio hasta que queden cocidos.",
+                "Sumergir los trozos de panceta cocida y seca. Cocinar a fuego medio hasta que tome color dorado. Subir el fuego para darle m&#225;s color y quede m&#225;s crocante.",
+                "Retirar del aceite con mucho cuidado, cortar en l&#225;minas gruesas.",
+                "Preparar la sarsa criolla con 1 cebolla cortada en pluma, aj&#237; limo picado finamente, hierbabuena, lim&#243;n y sal al gusto.",
+                "Servir en pan franc&#233;s o roseta, acompa&#241;arlo con un caf&#233; caliente."
+            ],
+            "duration": null,
+            "portion": 4,
+            "extra": null
+        }
+    }
+}
