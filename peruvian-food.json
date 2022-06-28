@@ -136,6 +136,366 @@
             "duration": null,
             "portion": 4,
             "extra": null
+        },
+        "hamburguesa casera": {
+            "type": "Acompañamiento",
+            "ingrediente": [
+                "1 kilo de carne de res molida",
+                "&#188; taza de cebolla roja picada en cuadritos",
+                "&#188; taza de perejil picado",
+                "1 cucharadita de comino",
+                "1 cucharadita de or&#233;gano",
+                "&#188; taza de pan molido",
+                "1 cucharada de ajo molido",
+                "1 huevo",
+                "Sal y pimienta al gusto",
+                "Aceite c/n",
+                "Mantequilla c/n"
+            ],
+            "preparation": [
+                "Lo primero que debes hacer es colocar en un bol la carne de res, la cebolla, el perejil, el huevo, la sal, la pimienta, el comino, el orégano y el ajo. Mezcla muy bien con las manos. Verifica que todo se integre a la perfección.",
+                "Seguidamente, añade el pan molido y empieza amasar suavemente. Luego divide la mezcla en 5 porciones del mismo tamaño y dale la forma de hamburguesa.",
+                "Por otro lado, pon a calentar una sartén con un chorrito de aceite. Una vez esté bien caliente, sumerge las hamburguesas y déjalas cocinar a fuego medio 3 minutos por cada lado o hasta obtener el punto deseado. Cuando le des vuelta, añade un pequeño trozo de mantequilla por encima de cada hamburguesa, esto le dará un sabor más delicioso.",
+                "Por último, sirve cada porción y acompaña con una rica ensalada rusa o fresca y un poco de arroz blanco graneado. También la puedes servir de la manera en que más se consume, en medio de dos panes, con tomate, lechuga, una lámina de queso, papas fritas y las salsas de tu preferencia."
+            ],
+            "duration": 40,
+            "portion": 5,
+            "extra": null
+        },
+        "salchicha huachana": {
+            "type": "Bebida",
+            "ingrediente": [
+                "2 salchichas de Huacho",
+                "3 huevos",
+                "6 panes franceses o de su preferencia"
+            ],
+            "preparation": [
+                "Para empezar con la receta de salchicha de huacho primero en una sart&#233;n antiadherente&#160;agrega un chorro de aceite vegetal. La sart&#233;n debe estar a fuego medio.",
+                "Cuando el aceite se encuentre caliente,&#160;a&#241;ade el relleno huachano&#160;de las salchichas.",
+                "Mueve la salchicha con la ayuda de una cuchara o esp&#225;tula de madera mientras se fr&#237;e. Cuando la salchicha se encuentre dorada,&#160;agrega los huevos&#160;que pueden ser previamente batidos o pueden ir directamente a la sart&#233;n.",
+                "Truco:&#160;retira el exceso de aceite y reserva porque se puede utilizar para otras preparaciones.",
+                "Mueve los ingredientes con una cucharada de madera y cuando el huevo se encuentre listo&#160;apaga el fuego y sirve en un pan."
+            ],
+            "duration": null,
+            "portion": 4,
+            "extra": null
+        },
+        "huevos revueltos": {
+            "type": "Acompa&#241;amiento"
+        },
+        "tamales": {
+            "type": "Acompa&#241;amiento",
+            "ingrediente": [
+                "1 kg de harina de ma&#237;z",
+                "2 cucharadas de aj&#237; colorado molido (panca)",
+                "1 cucharadas de aj&#237; amarillo",
+                "1 pizca de comino",
+                "&#189; cucharadita de ajinomoto&#189; cucharadita de sal",
+                "&#188; cucharadita de pimienta negra",
+                "1 cebolla",
+                "&#189; kg de pollo o carne de chancho en trozos",
+                "8 aceitunas negras",
+                "4 huevos cocidos y cortados en mitades",
+                "50 g de man&#237; tostado",
+                "200 g de manteca",
+                "&#189; taza de aceite",
+                "2 tazas de agua o caldo de pollo",
+                "8 hojas de pl&#225;tano verde"
+            ],
+            "preparation": [
+                "Lo primero que se debe hacer es preparar el aderezo. Para ello, calienta la manteca hasta que se diluya, luego agrega la cebolla picadita en trozos peque&#241;os, el aj&#237; amarillo, el aj&#237; colorado, el ajinomoto, el comino, la sal y la pimienta.",
+                "Cuando todo est&#233; bien integrado, vierte el pollo o chancho picado en trozos. Deja que se dore un poco, luego agrega una taza de agua o caldo y deja cocinar por 15 minutos (si es cerdo, d&#233;jalo 10 minutos m&#225;s). Durante este tiempo es indispensable revisar constantemente la preparaci&#243;n para que no se queme.",
+                "Posteriormente, saca los trozos de pollo o chancho. En la preparaci&#243;n restante, a&#241;ade la harina de ma&#237;z y el aceite. Mueve de forma envolvente y con fuerza para que no se pegue. Agrega un poco m&#225;s del caldo restante si es necesario hasta que la masa tenga la consistencia adecuada. Rectifica la saz&#243;n.",
+                "Nota:&#160;Para saber cu&#225;ndo est&#225; lista la masa, saca una cucharada y espera que enfr&#237;e, si la masa no se pega en las manos es porque ya esta lista.",
+                "Armando los tamales:",
+                "Ahora bien, cuando se tenga la masa y el pollo listo, es hora de armar los tamales. Para ello, primero debes porcionar la masa en 8 bollos del mismo tama&#241;o.",
+                "Agarra un pu&#241;ado de masa y esp&#225;rcela sobre la hoja de pl&#225;tano (la cual debe estar lavada y cortada al tama&#241;o que desees) aceitada previamente en la superficie donde ir&#225; la masa.",
+                "Hazle un hueco en el centro a la masa, y all&#237; coloca un trozo de pollo o cerdo, un pedacito de huevo, una aceituna y dos man&#237;es.",
+                "Acomoda todo y envuelve muy bien.",
+                "Realiza este mismo procedimiento con el resto de los bollos.",
+                "Luego coloca los tamales en una olla grande o del tama&#241;o adecuado, agrega agua hasta cubrirlos y coc&#237;nalos por aproximadamente 1 hora o hasta que empiecen a despedir su olor caracter&#237;stico.",
+                "Pasado el tiempo, ret&#237;ralos de la olla y d&#233;jalos enfriar un poco."
+            ],
+            "duration": null,
+            "portion": 8,
+            "extra": null
+        },
+        "jamon del pais": {
+            "type": "Acompa&#241;amiento"
+        },
+        "caldo de gallina": {
+            "type": "Completo",
+            "ingrediente": [
+                "Agua",
+                "4 presas de gallina",
+                "1 rama de or&#233;gano",
+                "2 ramas de apio",
+                "2 trozos de kion",
+                "Sal a gusto",
+                "1/4 de kilo de fideos gruesos",
+                "3 unidades de papa amarilla",
+                "4 unidades de huevo duro",
+                "Cebolla china a gusto"
+            ],
+            "preparation": [
+                "Colocar el agua en una olla.",
+                "A&#241;adir las presas de gallina.",
+                "Agregar el or&#233;gano, apio, kion y sal.",
+                "Remover.",
+                "Tapar y dejar hervir de 15 a 20 minutos.",
+                "A&#241;adir los fideos gruesos.",
+                "Mover.",
+                "Dejar cocinar por unos 10 minutos.",
+                "A&#241;adir la papa amarilla.",
+                "Dejar cocinar unos 10 minutos.",
+                "Servir.",
+                "Agregar un huevo sancochado."
+            ],
+            "duration": null,
+            "portion": null,
+            "extra": null
+        },
+        "caldo de cordero": {
+            "type": "Completo",
+            "ingrediente": [
+                "1 cabeza de cordero",
+                "agua",
+                "mote pelado",
+                "sal",
+                "aj&#237; mirasol seco",
+                "papas",
+                "paico",
+                "hierba buena",
+                "rocoto molido",
+                "lim&#243;n",
+                "cebolla china picada"
+            ],
+            "preparation": [
+                "Primero cortamos 1 cabeza de cordero en trozos bien lavados y lo colocamos en una olla con agua junto al mote pelado y lavado cocin&#225;ndolo a fuego lento hasta que el mote este en su punto quitando la espumilla que la cabeza va generando en la superficie.",
+                "Ahora probamos el caldo para agregarle sal, 1 aj&#237; mirasol seco entero y papas peladas.",
+                "Seguidamente deshuesamos los trozos de la cabeza recuperando sus carnes para regresarlos al caldo y lo dejamos cocer.",
+                "finalmente a&#241;adimos paico , hierba buena , rocoto molido , lim&#243;n y cebolla china picada"
+            ],
+            "duration": null,
+            "portion": null,
+            "extra": null
+        },
+        "Mondongo": {
+            "type": "Completo",
+            "ingrediente": [
+                "1/2 kilo de mote pelado",
+                "300 gramos de mondongo",
+                "300 gramos de pecho de res",
+                "2 cucharaditas de hierbabuena finamente picada",
+                "1 cucharada de ajos molido",
+                "1 cebolla finamente picada",
+                "1 cucharadita de aj&#237; panca molido",
+                "Sal, pimienta, comino, or&#233;gano y agua"
+            ],
+            "preparation": [
+                "1/2 kilo de mote pelado",
+                "300 gramos de mondongo",
+                "300 gramos de pecho de res",
+                "2 cucharaditas de hierbabuena finamente picada",
+                "1 cucharada de ajos molido",
+                "1 cebolla finamente picada",
+                "1 cucharadita de aj&#237; panca molido",
+                "Sal, pimienta, comino, or&#233;gano y agua"
+            ],
+            "duration": null,
+            "portion": null,
+            "extra": null
+        },
+        "ensalada de fruta": {
+            "type": "Acompa&#241;amiento",
+            "ingrediente": [
+                "2 pl&#225;tanos",
+                "2 mandarinas",
+                "1 manzana",
+                "1/2 papaya",
+                "1 naranja",
+                "1 cucharadita de miel de abeja.",
+                "1/2 taza de yogur natural",
+                "Canela en polvo (opcional)"
+            ],
+            "preparation": [
+                "Pelar y cortar pl&amp;#225;tanos en rodajas finas",
+                "Las mandarinas desgajamos",
+                "A la papaya le quitamos las semillas, pelamos y picamos en cuadrados",
+                "La manzana pelamos, quitamos coraz&amp;#243;n y picamos en cubos",
+                "Vertemos todas nuestras frutas en un recipiente",
+                "Mezclamos con la miel, yogur y jugo de una naranja y lo agregamos a nuestras frutas",
+                "Revolvemos para que queden cubiertas con el aderezo y echamos canela molida, adornar con fresas y cerezas, servimos"
+            ],
+            "duration": null,
+            "portion": null,
+            "extra": null
+        },
+        "omelette": {
+            "type": "Acompa&#241;amiento"
+        },
+        "hash brown": {
+            "type": "Acompa&#241;amiento",
+            "ingrediente": [
+                "3 patatas grandes (son unos 750 g)",
+                "Aceite de oliva virgen extra",
+                "Sal y pimienta",
+                "Opcional: 1 huevo"
+            ],
+            "preparation": [
+                "Pelamos las&#160;patatas&#160;con un pelador. Las lavamos bajo el grifo y las&#160;rallamos&#160;con un rallador pero por la parte m&#225;s gruesa que tenga. Queremos hacer tiras finas con la patata, como un&#160;corte muy fino en juliana, pero no deben perder del todo su textura porque se quedar&#237;an como pur&#233;.&#160; Si tienes en casa un robot de cocina o una picadora de juliana puedes usarla y te ahorras este paso.",
+                "Ahora viene el momento m&#225;s importante de la receta. Las patatas tienes que&#160;escurrirse&#160;muy bien para que pierdan todo el agua posible. Hay que ponerlas en un colador, apretar con las manos y despu&#233;s secar con un pa&#241;o limpio. Este paso es muy importante para el resultado de la receta. Las patatas deben estar lo m&#225;s secas posible.",
+                "Es el momento de&#160;salpimentar&#160;con alegr&#237;a y revolver muy bien.",
+                "Si quieres asegurarte que las tortitas cuajen bien y presenten buena forma puedes a&#241;adir un&#160;huevo&#160;batido y mezclar bien, pero en la receta original no se usa.",
+                "En un&#160;sart&#233;n&#160;antiadherente se pone el aceite. Una vez que est&#233; caliente, vamos poniendo las tortitas. Les podemos dar forma con las manos, y quedar&#225;n m&#225;s regulares. Si quieres vas poniendo porciones de patata con una cuchara y le das forma con la cuchara.",
+                "Se les da la vuelta hasta que est&#233;n bien&#160;doradas y crujientes.&#160;El fuego debe estar al medio. Recuerda que las patatas est&#225;n crudas y deben hacerse lentamente.",
+                "Escurrimos&#160;sobre papel absorbente y servimos caliente con unos huevos o acompa&#241;ando un buen&#160;desayuno ingl&#233;s."
+            ],
+            "duration": null,
+            "portion": null,
+            "extra": null
+        },
+        "jugo de fruta": {
+            "type": "Bebida"
+        },
+        "panqueque / cachanga": {
+            "type": "Acompa&#241;amiento",
+            "ingrediente": [
+                "500 gr. harina de trigo preparada",
+                "2 huevos",
+                "1 taza de agua tibia",
+                "1 cda. de az&#250;car blanca o rubia",
+                "1 cdta. de sal",
+                "2 cdas. de mantequilla (Equivale a 30 gramos)",
+                "Aceite vegetal para fre&#237;r"
+            ],
+            "preparation": [
+                "Cogemos un recipiente grande y cernimos la harina dentro, luego echamos el az&#250;car y el an&#237;s, poco a poco se va mezclando con una cuchara o con las manos con el fin de integrar totalmente los ingredientes.&#160;Al tener cada ingrediente inmerso en el otro, se agrega una pizca de sal y se contin&#250;a mezclando.",
+                "Cuando ya todos los ingredientes secos est&#233;n integrados, ser&#225; momento de a&#241;adir los huevos y luego comenzaremos a integrarlos con el fin de que se cree una masa algo pegajosa y hasta chiclosa. Cuando se obtenga esta textura ser&#225; momento de agregarle agua. Debe de a&#241;adirlo de forma suave. Luego intente formar una bola con la masa y h&#225;galo con las manos.&#160;Si la masa sigue chiclosa puede a&#241;adir poco a poco harina, mientras sigue envolviendo la masa como si estuviera formando una bola de nieve.&#160;Siga manipulando la masa d&#225;ndole una forma redonda. El fin de ello que es conforme va teniendo contacto con la masa, esta vaya dejando la textura pegajosa y se vuelva s&#243;lida, algo as&#237; como una plastelina.",
+                "Una vez que la masa tenga una textura como la de una plastelina, es decir que ya no se le pegue a las manos, ser&#225; momento de dejarla reposar durante 4 horas dentro del mismo recipiente de origen. Cubra dicho recipiente con un pl&#225;stico para envolver y con un trapo que corte la iluminaci&#243;n.",
+                "El tiempo en menci&#243;n es con la intensi&#243;n de que la masa se infle. Pasado el tiempo, ser&#225; momento de estirar la masa en una mesa o sitio plano. Utilice harina para la base plana y rodillo para estirarla. Arranque un pedazo de la masa en forma de bolita y mejor la circunferencia cuando est&#233; aislada.&#160;Haga esto hasta que la masa grande termine dividida en varias bolitas medianas.&#160;Luego sobre una base seca y limpia comience a estirar cada bolita (de una en una) con el rodillo hasta que tenga el tama&#241;o de una tortilla de huevo.",
+                "Ahora es momento de poner en una sart&#233;n honda u olla ancha aceite y esperar que caliente. Cuando est&#233; caliente (5 minutos) ser&#225; momento de echar las masas en forma de tortillas. Solas coger&#225;n m&#225;s tama&#241;o y&#160;deber&#225; voltearla a cada rato porque la cocci&#243;n es r&#225;pida y se pueden quemar.&#160;Esto rep&#237;talo hasta terminar todas las masas."
+            ],
+            "duration": 270,
+            "portion": 15,
+            "extra": null
+        },
+        "chocolate": {
+            "type": "Bebida",
+            "ingrediente": [
+                "1 taza de agua",
+                "2 tazas de leche",
+                "200 gramos de chocolate de taza",
+                "1 lata de leche evaporada",
+                "2 clavos de olor",
+                "2 ramitas de canela",
+                "&#189; cucharadita de nuez moscada rallada",
+                "2 cucharadas de vainilla",
+                "Az&#250;car al gusto",
+                "Una pizca de sal",
+                "1 taza de crema batida (opcional)"
+            ],
+            "preparation": [
+                "Para empezar pon a calentar el agua con los clavos de olor y la canela.",
+                "Una vez rompa hervor el agua, retira las especias.",
+                "Seguidamente agrega el chocolate picado. Remueve constantemente hasta que el chocolate se derrita por completo.",
+                "A continuaci&#243;n incorpora la leche l&#237;quida, la leche evaporada, la pizca de sal, el az&#250;car, la vainilla y la nuez moscada ralladita.",
+                "Remueve y deja que la preparaci&#243;n rompa hervor.",
+                "Retira inmediatamente del fuego.",
+                "Finalmente sirve y agrega una poco de crema batida. Espolvorea por encima un poco de chocolate rallado."
+            ],
+            "duration": 20,
+            "portion": null,
+            "extra": null
+        },
+        "tostadas": {
+            "type": "Acompa&#241;amiento"
+        },
+        "pan con pollo": {
+            "type": "Acompa&#241;amiento",
+            "ingrediente": [
+                "1 Pechuga de Pollo",
+                "1 Zanahoria",
+                "1 Huevo",
+                "1 Mostaza",
+                "1 Lim&#243;n",
+                "1 Taza de aceite de Girasol",
+                "6 Tallos de Apio",
+                "Sal y Pimienta",
+                "5 Pabes"
+            ],
+            "preparation": [
+                "En una olla con agua hirviendo, agregar una pechuga de pollo, huesos de pollo, 2 tallos de apio y 1 zanahoria cortada en trozos irregulares, cocinar durante 25 minutos.",
+                "Retirar la pechuga de la olla y colocarla en un bowl grande, con la ayuda de una batidora el&#233;ctrica desmenuzar el pollo como se ve en el video, no deber&#237;a tomar m&#225;s de 30 segundos. Reservar y dejar enfr&#237;ar.",
+                "Para preparar la mayonesa, en un recipiente agregamos un huevo, una cucharadita de mostaza americana, el jugo de un lim&#243;n, y 3 cucharadas de aceite. Batir con la ayuda de un mixer hasta emulsionar (si no cuentas con un mixer puedes ver la receta de la&#160;Salchipapa con Todas las Cremas&#160;para que aprendas a hacer una mayonesa en licuadora).",
+                "Agregar hojas de apio a la mayonesa, batir hasta desintegrarlas, agregar sal y pimienta al gusto y m&#225;s aceite si es necesario hasta lograr la textura deseada. Reservar en fr&#237;o.",
+                "En un recipiente, agregar la pechuga de pollo desmenuzada, agregar mayonesa al gusto, apio picado finamente, sal y pimienta al gusto. Mezclar y reservar.",
+                "Se suele servir con pan franc&#233;s, lechuga y papitas al hilo."
+            ],
+            "duration": null,
+            "portion": 5,
+            "extra": null
+        },
+        "lomo saltado": {
+            "type": "Acompa&#241;amiento",
+            "relation": [
+                "lomo albino",
+                "lomo al vino"
+            ],
+            "ingrediente": [
+                "500 gr de lomo o filete de vacuno* (alternativa: lomo de cerdo o pollo)",
+                "4 ciabattas, marraquetas o pan similar",
+                "2 tomates medianos",
+                "1 cebolla morada grande",
+                "6 cucharadas de salsa de soja",
+                "3 cucharadas de vinagre de vino blanco (o vinagre de jerez)",
+                "Aceite maravilla o vegetal",
+                "Un pu&#241;ado de cilantro fresco (opcional)"
+            ],
+            "preparation": [
+                "Cortar la carne en cubos medianos (aprox 5 cm de grosor).",
+                "En un recipiente mezclar la salsa de soja con el vinagre de vino blanco.",
+                "Cortar la cebolla morada en gajos medianos. Cortar el tomate también en gajos y sacar la pulpa.",
+                "En un sartén grande agregar un chorrito de aceite, cuando esté bien caliente (fuego medio-alto), agregar la carne (idealmente en dos tandas para que puedas manipularla mejor, y sellar la carne por todas sus caras (aprox 1 min por lado). Si usas carne de vacuno sella la carne rápidamente (no importa que no quede 100% cocida, si usas pollo o cerdo asegúrate de que quede bien cocida). Cuando la carne esté sellada agregar la mitad de la mezcla de soja con vinagre. Mezclar bien un par de minutos para que la carne se tiña con el color de la salsa, retirar y reservar.",
+                "En el mismo sartén, volver a agregar un chorrito de aceite y saltear rápidamente los gajos de cebolla y tomate (aprox 2 min), agregar la otra mitad de la salsa de soja con vinagre, esperar un par de minutos, agregar la carne (con su jugo/salsa), mezclar bien y dar un último hervor y apagar el fuego.",
+                "Calentar el pan, abrir y agregar una cucharadita de salsa en cada lado, agregar una porción de lomo saltado, unas hojitas de cilantro fresco y listo para disfrutar."
+            ],
+            "duration": null,
+            "portion": null,
+            "extra": null
+        },
+        "lomo al jugo / lomo al vino": {
+            "type": "Acompa&#241;amiento",
+            "relation":[
+                "lomo saltado"
+            ],
+            "ingrediente": [
+                "&#189; kilo de lomo fino",
+                "1 cebolla roja",
+                "1 ajo picado",
+                "4 tomates",
+                "1 cucharadita de vinagre",
+                "1 cucharadita de aj&#237; panca",
+                "&#189; aj&#237; amarillo",
+                "1 cucharadita de or&#233;gano seco",
+                "Sillao al gusto",
+                "Caldo de res c/n",
+                "Sal y pimienta al gusto",
+                "Culantro al gusto"
+            ],
+            "preparation": [
+                "Lo primero que debes hacer es cortar la carne y condimentarla con sal y pimienta.",
+                "Por otro lado, pon a calentar una sartén o un wok con un chorrito de aceite. Una vez esté bien caliente agrega los trozos de carne. Fríe por 3 minutos y luego retíralos. Reserva.",
+                "En el mismo wok, agrega un poco más aceite y añade el tomate previamente picado finamente, pelado y sin semillas.",
+                "Seguidamente, agrega el ají amarillo picado en tiritas bien delgadas y el ají panca. Remueve.",
+                "A continuación, agrega una pizca de sal para que el tomate largue todos sus jugos.",
+                "Luego, agrega la cebolla picada en gajos y sofríe por 5 minutos. Agrega la cucharadita de orégano seco y el vinagre.",
+                "Por último, vierte el caldo de res o agua en su defecto y reincorpora la carne. Añade el sillao y rectifica sazón.",
+                "Sirve y acompáñalo con una porción de arroz blanco. Decora con unas hojitas de culantro."
+            ],
+            "duration": 35,
+            "portion": 2,
+            "extra": null
         }
     }
 }

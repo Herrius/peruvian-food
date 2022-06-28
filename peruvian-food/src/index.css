@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
+
+:root {
+  /* Typography */
+  --font: "IBM Plex Serif";
+
+  --title-weight: 600;
+  --title-size: 600;
+  --title-line: 2.875rem;
+  --title-letter: 0.35px;
+
+  --h2-size: 1.5rem;
+  --h2-line: 2rem;
+  --h2-letter: 0.15px;
+
+  --h3-size: 1.25rem;
+  --h3-line: 1.625rem;
+  --h3-letter: 0.15px;
+  --h3-weight: 500;
+
+  --p-size: 1rem;
+  --p-line: 1.25rem;
+  --p-letter: 0.15px;
+  --p-weight: 400;
+
+  --sp-size: 0.5rem;
+  --sp-line: 0.625rem;
+  --sp-letter: 0.25px;
+
+  --button-size: 1rem;
+  --button-line: 1rem;
+  --button-letter: 0.5px;
+  --button-weight: 700;
+
+  /*  Color */
+  --primary-200: hsla(0, 100%, 78%, 1);
+  --primary-300: hsla(0, 100%, 75%, 1);
+  --primary-400: hsla(0, 100%, 71%, 1);
+  --primary-500: hsla(0, 100%, 62%, 1);
+  --primary-600: hsla(0, 100%, 53%, 1);
+
+  --white: hsla(0, 0%, 95%, 1);
+  --gray-300: hsla(0, 0%, 92%, 1);
+  --gray-400: hsla(0, 0%, 89%, 1);
+  --gray-500: hsla(0, 0%, 45%, 1);
+  --black: hsla(0, 0%, 22%, 1);
+}
+
+body {
+  font-family: var(--font);
+  font-weight: var(--p-weight);
+  margin: 0;
+  color: var(--black);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  
+}
+
+ul {
+  list-style-type: none;
+  padding-inline-start: 0;
+}
+
+.a-reset, .a-reset:active, .a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 12%;
+}
+/* fonts */
+.p{
+  font-size: var(--p-size);
+  line-height: var(--p-line);
+  letter-spacing: var(--p-letter);
+  font-weight: var(--p-weight);
+  margin: 0.75rem 0 0;
+}
+.subtitle-2{
+  font-size: var(--h2-size);
+  line-height: var(--h2-line);
+  letter-spacing: var(--h2-letter);
+  font-weight: var(--h3-weight);
+}
+
+/* header */
+.menu {
+  align-self: center;
+  padding-top: 4em;
+}
+.menu-option{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.menu-option > a{
+  padding: 0 0.5em;
+}
+.active-option{
+  color: var(--primary-500);
+}
+.menu-option > a:first-child{
+  border-right: 2px solid var(--black);
+}
+/* body -> food-options */
+.food-options{
+  display: flex;
+  gap: 1em;
+}
+.btn-generate{
+  margin-top: 3.375em;
+}
+.btn-generate > button{
+  background-color: var(--primary-400);
+  color: var(--white);
+  border: none;
+  border-radius: 4px;
+  padding: 00.75rem 2.665rem;
+  font-size: var(--button-size);
+  line-height: var(--buttom-line);
+  letter-spacing: var(--buttom-letter);
+  font-weight: var(--button-weight);
+}
+
+.btn-generate > button:active{
+  background-color: var(--primary-500);
+}
