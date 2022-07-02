@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
 
 :root {
   /* Typography */
   --font: "IBM Plex Serif";
 
   --title-weight: 600;
-  --title-size: 600;
+  --title-size: 3rem;
   --title-line: 2.875rem;
   --title-letter: 0.35px;
 
@@ -52,17 +53,20 @@ body {
   margin: 0;
   color: var(--black);
   min-height: 100vh;
+  min-width: 100vw;
   display: flex;
   justify-content: center;
   text-align: center;
-  
+
 }
 
 ul {
   list-style-type: none;
   padding-inline-start: 0;
 }
-
+table{
+  gap: 2rem;
+}
 .a-reset, .a-reset:active, .a:visited {
   color: black;
   text-decoration: none;
@@ -75,50 +79,83 @@ ul {
   justify-content: center;
   margin: 0 12%;
 }
+
 /* fonts */
-.p{
+.p {
   font-size: var(--p-size);
   line-height: var(--p-line);
   letter-spacing: var(--p-letter);
   font-weight: var(--p-weight);
   margin: 0.75rem 0 0;
 }
-.subtitle-2{
+.title{
+  font-size: var(--title-size);
+  line-height: var(--title-line);
+  letter-spacing: var(--title-letter);
+  font-weight: var(--title-weight);
+}
+.subtitle-2 {
   font-size: var(--h2-size);
   line-height: var(--h2-line);
   letter-spacing: var(--h2-letter);
   font-weight: var(--h3-weight);
 }
-
+.subtitle-3{
+  font-size: var(--h3-size);
+  line-height: var(--h3-line);
+  letter-spacing: var(--h3-letter);
+  font-weight: var(--h3-weight);
+}
+/* options */
+.hidden{
+  display: none;
+}
+.left{
+  text-align: left;
+}
+.p-r{
+  padding-right: 2rem;
+}
+/* .img-result{
+  width: 50%;
+  height: 50%;
+} */
 /* header */
 .menu {
   align-self: center;
   padding-top: 4em;
 }
-.menu-option{
+
+.menu-option {
   display: flex;
   justify-content: center;
   align-items: center;
   width: 100%;
 }
-.menu-option > a{
+
+.menu-option>a {
   padding: 0 0.5em;
 }
-.active-option{
+
+.active-option {
   color: var(--primary-500);
 }
-.menu-option > a:first-child{
+
+.menu-option>a:first-child {
   border-right: 2px solid var(--black);
 }
+
 /* body -> food-options */
-.food-options{
+.food-options {
   display: flex;
-  gap: 1em;
+  gap: 2em;
 }
-.btn-generate{
+
+.btn-generate {
   margin-top: 3.375em;
 }
-.btn-generate > button{
+
+.btn-generate>button {
   background-color: var(--primary-400);
   color: var(--white);
   border: none;
@@ -130,6 +167,19 @@ ul {
   font-weight: var(--button-weight);
 }
 
-.btn-generate > button:active{
+.btn-generate>button:active {
   background-color: var(--primary-500);
+}
+
+.up {
+  border: 2px var(--primary-400) solid;
+  border-radius: 4px;
+}
+.food-options > section{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.box{
+  margin-bottom: 00.75rem;
 }
